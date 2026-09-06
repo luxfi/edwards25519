@@ -1,0 +1,12 @@
+github.com/luxfi/edwards25519
+
+Derived from github.com/agl/ed25519, which the Go Authors released under the
+BSD 3-Clause license reproduced in LICENSE. That project is decommissioned
+upstream; the copy here is maintained for Lux and keeps the extra25519
+helpers, which were never part of the standard library's crypto/ed25519.
+
+  Copyright (c) 2012 The Go Authors. All rights reserved.
+
+The BSD 3-Clause terms in LICENSE apply to the derived work as they do to the
+original, including the requirement to reproduce the copyright notice and the
+disclaimer in redistributions.
